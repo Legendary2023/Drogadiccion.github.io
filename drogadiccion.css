@@ -191,9 +191,9 @@ p {
 .id2 {
   position: absolute;
   top: 1400px;
-  left: 20%;
+  left: 25%;
   font-family: 'Poppins';
-  font-size: 75px;
+  font-size: 60px;
   color: green;
 }
 
@@ -236,10 +236,10 @@ a:active {
 
 .id3 {
    position: absolute;
-   top: 2750px;
-   left: 15%;
+   top: 3000px;
+   left: 25%;
    font-family: 'Poppins';
-   font-size: 85px;
+   font-size: 50px;
    color: green;
    
 }
@@ -275,9 +275,9 @@ a:active {
 .id4 {
   position: absolute;
   top: 4000px;
-  left: 15%;
+  left: 25%;
   font-family: 'Poppins';
-  font-size: 75px;
+  font-size: 60px;
   color: green;
 }
 
@@ -285,7 +285,7 @@ a:active {
   position: absolute;
   width: 700px;
   height: 500px;
-  top: 5250px;
+  top: 5550px;
   left: 350px;
 }
 
@@ -294,7 +294,7 @@ a:active {
   position: absolute;
   width: 600px;
   height: 400px;
-  top: 5850px;
+  top: 6050px;
   left: 350px;
   font-size: 24px;
 }
