@@ -237,9 +237,9 @@ a:active {
 .id3 {
    position: absolute;
    top: 3000px;
-   left: 25%;
+   left: 15%;
    font-family: 'Poppins';
-   font-size: 25px;
+   font-size: 15px;
    color: green;
    
 }
